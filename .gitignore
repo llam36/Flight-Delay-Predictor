@@ -1,0 +1,11 @@
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+.jekyll-cache
+.jekyll-cache
+.DS_Store
+dataset/mywork
+complete_dataset.csv
+
+.ipynb_checkpoints
