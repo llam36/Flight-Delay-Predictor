@@ -4,4 +4,4 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-cayman"
 
-gemspec
+# gemspec
